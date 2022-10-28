@@ -1,6 +1,7 @@
 
 
-# Blender-Controller-Addon
+# Blender-Controller-Addon 
+
 An addon that enable usage of a controller to control parameters inside of blender. 
 
 ## Installation
@@ -32,4 +33,4 @@ Included are also a few example .blend files to demonstrate the addon's usefulne
 I have only been able to test this addon on an X-Box 360 Controller so other controllers may not work. If that is so please contact me and I will look into supporting them.
 </details>
 
-Feel free to use this any any of your projects! No payment necessary but donations on gumroad would be extremely appreciated!
+Feel free to use this any any of your projects! No payment necessary but donations on [gumroad](https://github.com/meeww/Blender-Controller-Addon) would be extremely appreciated!
